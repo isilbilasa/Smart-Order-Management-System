@@ -87,7 +87,7 @@ The system is designed with minimal tools to maximize clarity and data accuracy:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/kullaniciadi/smart-order-management.git
+git clone https://github.com/isilbilasa/smart-order-management.git
 cd smart-order-management
 ```
 
